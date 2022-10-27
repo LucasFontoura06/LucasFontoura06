@@ -1,8 +1,11 @@
 ### Olá eu sou o Lucas Fontoura 👋🏻😊
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB. <br\>
-🏢 Trabalho atualmente no Ministério da Infraestrutura -> SENATRAN. <br\>
-👨🏼‍💻 Estou desenvolvendo automações e trabalhando com dados na linguagem Python. <br\>
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
+
+🏢 Trabalho atualmente no Ministério da Infraestrutura -> SENATRAN.
+
+👨🏼‍💻 Estou desenvolvendo automações e trabalhando com dados na linguagem Python.
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f0nt0ur4/)
