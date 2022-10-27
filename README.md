@@ -9,5 +9,5 @@
 
 
 ## Tecnologias que uso nomeu dia:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFontoura06&layout=)](https://github.com/LucasFontoura06/github-readme-stats)
+<br/>
+[![Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFontoura06&layout=)](https://github.com/LucasFontoura06/github-readme-stats)
