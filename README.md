@@ -16,5 +16,5 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFontoura06&show_icons=true&theme=radical)
 
 
-## Tecnologias que uso nomeu dia:
+## Tecnologias que uso no meu dia:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFontoura06&layout=)](https://github.com/LucasFontoura06/github-readme-stats)
