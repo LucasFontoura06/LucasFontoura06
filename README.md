@@ -1,4 +1,4 @@
-### Olá eu sou o Lucas Fontoura 👋🏻😊
+### Olá, me chamo Lucas Fontoura 👋🏻😊
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo UniCEUB.
 
